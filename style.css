@@ -1,0 +1,41 @@
+body{
+  max-width: 500px;
+  margin: auto;
+}
+
+h1{
+  text-align: center;
+}
+
+a{
+  color: forestgreen;
+}
+
+a:hover{
+  color:deeppink;
+}
+
+  td {
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 6px;
+  }
+  p{
+    margin: 10px;
+  }
+
+  .fontBold{
+    font-size: 50px;
+    font-weight: bolder;
+  }
+
+  .hide{
+    display: none;
+  }
+  td{
+    border-color: forestgreen;
+  }
+
+  tr{
+    border-bottom: dotted 1px black;
+  }
